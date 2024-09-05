@@ -1,0 +1,39 @@
+[
+    {
+        "nombre": "Hamburguesa Clasica con Papas",
+        "precio": 8000,
+        "id": 1
+    },
+
+    {
+        "nombre": "Hamburguesa Especial con Papas",
+        "precio": 10000,
+        "id": 2
+    },
+
+    {
+        "nombre": "Pizza Muzzarella",
+        "precio": 10000,
+        "id": 3
+    },
+
+    {
+        "nombre": "Pizza Especial",
+        "precio": 15000,
+        "id": 4
+    },
+
+    {
+        "nombre": "Pancho Clasico",
+        "precio": 6000,
+        "id": 5
+    },
+
+    {
+        "nombre": "Gaseosa de 500 ml",
+        "precio": 6000,
+        "id": 6
+    }
+
+]
+
